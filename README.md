@@ -1,1 +1,1 @@
-# phi2_model_inferecing_on_T4
+# PHI2 model inference on T4
